@@ -1,4 +1,3 @@
-echo hello world
 # Red --> 31
 #Green -->32
 #Yellow--> 33
